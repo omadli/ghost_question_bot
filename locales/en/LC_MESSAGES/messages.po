@@ -1,0 +1,139 @@
+# English translations for GhostQuestionBot.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the GhostQuestionBot
+# project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: GhostQuestionBot 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-01-07 19:28+0500\n"
+"PO-Revision-Date: 2024-01-03 18:00+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#~ msgid ""
+#~ "Assalomu alaykum {mention}\n"
+#~ "\n"
+#~ "Ghost question botga xush kelibsiz. "
+#~ "Havolani do'stlaringiz va obunachilaringizga "
+#~ "ko'rsating va ulardan anonim xabarlar va"
+#~ " javoblarni oling!\n"
+#~ "\n"
+#~ "Sizga beriladigan anonim xabarlar uchun havolangiz: \n"
+#~ "{link}"
+#~ msgstr ""
+
+#~ msgid "Anonim xabarlaringizni yozing:"
+#~ msgstr ""
+
+#~ msgid "Anonim javoblaringizni yozing:"
+#~ msgstr ""
+
+#~ msgid "Noto'g'ri havoladan foydalanyapsiz!"
+#~ msgstr ""
+
+#~ msgid "Oops, nimadir xato ketti."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Sizga yangi anonim xabar yuborildi:\n"
+#~ "\n"
+#~ "{msg}"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Sizga yangi anonim audio yuborildi\n"
+#~ "\n"
+#~ "{msg}"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Sizga yangi anonim ovozli xabar yuborildi\n"
+#~ "\n"
+#~ "{msg}"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Sizga yangi anonim rasm yuborildi\n"
+#~ "\n"
+#~ "{msg}"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Sizga yangi anonim video yuborildi\n"
+#~ "\n"
+#~ "{msg}"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "✅ Xabaringiz yuborildi!\n"
+#~ "\n"
+#~ "Anonim xabarlar uchun sizning havolangiz:\n"
+#~ "{link}\n"
+#~ "\n"
+#~ "Havolani do'stlaringiz va obunachilaringizga "
+#~ "ko'rsating va ulardan anonim xabarlar va"
+#~ " javoblarni oling!"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "❔Xabarlarga qanday javob berish kerak?\n"
+#~ "Olingan xabardagi \"Javob berish\" tugmasini bosing.\n"
+#~ "\n"
+#~ "❔Xabarlarni qanday qabul qilish mumkin?\n"
+#~ "Do'stlaringizga havolangizni ko'rsating va "
+#~ "ulardan anonim xabarlar oling:\n"
+#~ "{link}"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "‼️Anonim chat to'xtatildi.\n"
+#~ "\n"
+#~ "Anonim xabarlar uchun sizning havolangiz:\n"
+#~ "{link}\n"
+#~ "\n"
+#~ "Havolani do'stlaringiz va obunachilaringizga "
+#~ "ko'rsating va ulardan anonim xabarlar va"
+#~ " javoblarni oling!"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "❌Sizda to'xtatish uchun aktiv anonim chat mavjud emas!\n"
+#~ "\n"
+#~ "Anonim xabarlar uchun sizning havolangiz:\n"
+#~ "{link}\n"
+#~ "\n"
+#~ "Havolani do'stlaringiz va obunachilaringizga "
+#~ "ko'rsating va ulardan anonim xabarlar va"
+#~ " javoblarni oling!"
+#~ msgstr ""
+
+#~ msgid "Ulashish"
+#~ msgstr ""
+
+#~ msgid "Javob berish"
+#~ msgstr ""
+
+#~ msgid "Anonim xabarlar uchun\n"
+#~ msgstr ""
+
+#~ msgid "Matn juda uzun"
+#~ msgstr ""
+
+#~ msgid "Tilni tanlang"
+#~ msgstr "Select a language"
+
+#~ msgid "Til sozlamalari {lang} ga yangilandi."
+#~ msgstr "Your language preference has been updated to {lang}."
+
+#~ msgid "Endi siz bilan {lang} cha gaplashaman😉"
+#~ msgstr "I will speak {lang} with you now😉"
+
